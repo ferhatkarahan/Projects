@@ -1,0 +1,14 @@
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\bin\Debug\net8.0\Conditionals.exe
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\bin\Debug\net8.0\Conditionals.deps.json
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\bin\Debug\net8.0\Conditionals.runtimeconfig.json
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\bin\Debug\net8.0\Conditionals.dll
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\bin\Debug\net8.0\Conditionals.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\obj\Debug\net8.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\obj\Debug\net8.0\Conditionals.AssemblyInfoInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\obj\Debug\net8.0\Conditionals.AssemblyInfo.cs
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\obj\Debug\net8.0\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\obj\Debug\net8.0\Conditionals.dll
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\obj\Debug\net8.0\refint\Conditionals.dll
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\obj\Debug\net8.0\Conditionals.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\obj\Debug\net8.0\Conditionals.genruntimeconfig.cache
+C:\Users\karah\Desktop\Csharp Projeler\Conditionals\obj\Debug\net8.0\ref\Conditionals.dll

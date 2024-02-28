@@ -1,0 +1,14 @@
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\bin\Debug\net8.0\Inharitances.exe
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\bin\Debug\net8.0\Inharitances.deps.json
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\bin\Debug\net8.0\Inharitances.runtimeconfig.json
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\bin\Debug\net8.0\Inharitances.dll
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\bin\Debug\net8.0\Inharitances.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\obj\Debug\net8.0\Inharitances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\obj\Debug\net8.0\Inharitances.AssemblyInfoInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\obj\Debug\net8.0\Inharitances.AssemblyInfo.cs
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\obj\Debug\net8.0\Inharitances.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\obj\Debug\net8.0\Inharitances.dll
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\obj\Debug\net8.0\refint\Inharitances.dll
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\obj\Debug\net8.0\Inharitances.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\obj\Debug\net8.0\Inharitances.genruntimeconfig.cache
+C:\Users\karah\Desktop\Csharp Projeler\Inharitances\obj\Debug\net8.0\ref\Inharitances.dll

@@ -1,0 +1,7 @@
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Facade\obj\Debug\Facade.pdb

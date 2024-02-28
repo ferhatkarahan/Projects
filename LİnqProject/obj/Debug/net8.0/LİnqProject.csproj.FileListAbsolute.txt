@@ -1,0 +1,14 @@
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\bin\Debug\net8.0\LİnqProject.exe
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\bin\Debug\net8.0\LİnqProject.deps.json
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\bin\Debug\net8.0\LİnqProject.runtimeconfig.json
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\bin\Debug\net8.0\LİnqProject.dll
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\bin\Debug\net8.0\LİnqProject.pdb
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\obj\Debug\net8.0\LİnqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\obj\Debug\net8.0\LİnqProject.AssemblyInfoInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\obj\Debug\net8.0\LİnqProject.AssemblyInfo.cs
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\obj\Debug\net8.0\LİnqProject.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\obj\Debug\net8.0\LİnqProject.dll
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\obj\Debug\net8.0\refint\LİnqProject.dll
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\obj\Debug\net8.0\LİnqProject.pdb
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\obj\Debug\net8.0\LİnqProject.genruntimeconfig.cache
+C:\Users\karah\Desktop\Csharp Projeler\LİnqProject\obj\Debug\net8.0\ref\LİnqProject.dll

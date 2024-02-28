@@ -1,0 +1,7 @@
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\DisegnPatterns\bin\Debug\DisegnPatterns.exe.config
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\DisegnPatterns\bin\Debug\DisegnPatterns.exe
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\DisegnPatterns\bin\Debug\DisegnPatterns.pdb
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\DisegnPatterns\obj\Debug\DisegnPatterns.csproj.AssemblyReference.cache
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\DisegnPatterns\obj\Debug\DisegnPatterns.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\DisegnPatterns\obj\Debug\DisegnPatterns.exe
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\DisegnPatterns\obj\Debug\DisegnPatterns.pdb

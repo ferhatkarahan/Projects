@@ -1,0 +1,7 @@
+C:\Users\karah\Desktop\Csharp Projeler\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\karah\Desktop\Csharp Projeler\Delegates\bin\Debug\Delegates.exe
+C:\Users\karah\Desktop\Csharp Projeler\Delegates\bin\Debug\Delegates.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\karah\Desktop\Csharp Projeler\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Delegates\obj\Debug\Delegates.exe
+C:\Users\karah\Desktop\Csharp Projeler\Delegates\obj\Debug\Delegates.pdb

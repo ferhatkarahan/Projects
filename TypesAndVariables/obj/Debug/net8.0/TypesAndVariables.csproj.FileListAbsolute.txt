@@ -1,0 +1,14 @@
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.exe
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.deps.json
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.runtimeconfig.json
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.dll
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\bin\Debug\net8.0\TypesAndVariables.pdb
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.AssemblyInfo.cs
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.dll
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\obj\Debug\net8.0\refint\TypesAndVariables.dll
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.pdb
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\obj\Debug\net8.0\TypesAndVariables.genruntimeconfig.cache
+C:\Users\karah\Desktop\Csharp Projeler\TypesAndVariables\obj\Debug\net8.0\ref\TypesAndVariables.dll

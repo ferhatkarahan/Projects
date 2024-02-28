@@ -1,0 +1,14 @@
+C:\Users\karah\Desktop\Csharp Projeler\Strings\bin\Debug\net8.0\Strings.exe
+C:\Users\karah\Desktop\Csharp Projeler\Strings\bin\Debug\net8.0\Strings.deps.json
+C:\Users\karah\Desktop\Csharp Projeler\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+C:\Users\karah\Desktop\Csharp Projeler\Strings\bin\Debug\net8.0\Strings.dll
+C:\Users\karah\Desktop\Csharp Projeler\Strings\bin\Debug\net8.0\Strings.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karah\Desktop\Csharp Projeler\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\Users\karah\Desktop\Csharp Projeler\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Strings\obj\Debug\net8.0\Strings.dll
+C:\Users\karah\Desktop\Csharp Projeler\Strings\obj\Debug\net8.0\refint\Strings.dll
+C:\Users\karah\Desktop\Csharp Projeler\Strings\obj\Debug\net8.0\Strings.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+C:\Users\karah\Desktop\Csharp Projeler\Strings\obj\Debug\net8.0\ref\Strings.dll

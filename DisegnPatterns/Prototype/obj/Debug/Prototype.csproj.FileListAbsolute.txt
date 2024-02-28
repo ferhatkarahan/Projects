@@ -1,0 +1,7 @@
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\karah\Desktop\Csharp Projeler\DisegnPatterns\Prototype\obj\Debug\Prototype.pdb

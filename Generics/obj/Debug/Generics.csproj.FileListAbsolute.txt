@@ -1,0 +1,7 @@
+C:\Users\karah\Desktop\Csharp Projeler\Generics\bin\Debug\Generics.exe.config
+C:\Users\karah\Desktop\Csharp Projeler\Generics\bin\Debug\Generics.exe
+C:\Users\karah\Desktop\Csharp Projeler\Generics\bin\Debug\Generics.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\karah\Desktop\Csharp Projeler\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Generics\obj\Debug\Generics.exe
+C:\Users\karah\Desktop\Csharp Projeler\Generics\obj\Debug\Generics.pdb

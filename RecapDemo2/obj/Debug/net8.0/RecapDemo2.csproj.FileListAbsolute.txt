@@ -1,0 +1,14 @@
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\bin\Debug\net8.0\RecapDemo2.exe
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\bin\Debug\net8.0\RecapDemo2.deps.json
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\bin\Debug\net8.0\RecapDemo2.runtimeconfig.json
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\bin\Debug\net8.0\RecapDemo2.dll
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\bin\Debug\net8.0\RecapDemo2.pdb
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\obj\Debug\net8.0\RecapDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\obj\Debug\net8.0\RecapDemo2.AssemblyInfoInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\obj\Debug\net8.0\RecapDemo2.AssemblyInfo.cs
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\obj\Debug\net8.0\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\obj\Debug\net8.0\RecapDemo2.dll
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\obj\Debug\net8.0\refint\RecapDemo2.dll
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\obj\Debug\net8.0\RecapDemo2.pdb
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\obj\Debug\net8.0\RecapDemo2.genruntimeconfig.cache
+C:\Users\karah\Desktop\Csharp Projeler\RecapDemo2\obj\Debug\net8.0\ref\RecapDemo2.dll

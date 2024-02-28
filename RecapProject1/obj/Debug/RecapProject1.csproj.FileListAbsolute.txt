@@ -1,0 +1,15 @@
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\bin\Debug\RecapProject1.exe.config
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\bin\Debug\RecapProject1.exe
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\bin\Debug\RecapProject1.pdb
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\obj\Debug\RecapProject1.csproj.AssemblyReference.cache
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\obj\Debug\RecapProject1.Form1.resources
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\obj\Debug\RecapProject1.Properties.Resources.resources
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\obj\Debug\RecapProject1.csproj.GenerateResource.cache
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\obj\Debug\RecapProject1.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\obj\Debug\RecapProject1.exe
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\obj\Debug\RecapProject1.pdb
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\bin\Debug\EntityFramework.dll
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\bin\Debug\EntityFramework.xml
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\karah\Desktop\Csharp Projeler\RecapProject1\obj\Debug\RecapProject1.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\bin\Debug\AdoNetDemo2.exe.config
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\bin\Debug\AdoNetDemo2.exe
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\bin\Debug\AdoNetDemo2.pdb
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\obj\Debug\AdoNetDemo2.csproj.AssemblyReference.cache
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\obj\Debug\AdoNetDemo2.Form1.resources
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\obj\Debug\AdoNetDemo2.Properties.Resources.resources
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\obj\Debug\AdoNetDemo2.csproj.GenerateResource.cache
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\obj\Debug\AdoNetDemo2.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\obj\Debug\AdoNetDemo2.exe
+C:\Users\karah\Desktop\Csharp Projeler\AdoNetDemo2\obj\Debug\AdoNetDemo2.pdb

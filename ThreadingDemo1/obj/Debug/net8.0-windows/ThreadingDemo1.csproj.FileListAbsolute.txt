@@ -1,0 +1,16 @@
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\bin\Debug\net8.0-windows\ThreadingDemo1.exe
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\bin\Debug\net8.0-windows\ThreadingDemo1.deps.json
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\bin\Debug\net8.0-windows\ThreadingDemo1.runtimeconfig.json
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\bin\Debug\net8.0-windows\ThreadingDemo1.dll
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\bin\Debug\net8.0-windows\ThreadingDemo1.pdb
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ThreadingDemo1.Form1.resources
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ThreadingDemo1.csproj.GenerateResource.cache
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ThreadingDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ThreadingDemo1.AssemblyInfoInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ThreadingDemo1.AssemblyInfo.cs
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ThreadingDemo1.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ThreadingDemo1.dll
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\refint\ThreadingDemo1.dll
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ThreadingDemo1.pdb
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ThreadingDemo1.genruntimeconfig.cache
+C:\Users\karah\Desktop\Csharp Projeler\ThreadingDemo1\obj\Debug\net8.0-windows\ref\ThreadingDemo1.dll

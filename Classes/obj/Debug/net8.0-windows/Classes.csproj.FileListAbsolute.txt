@@ -1,0 +1,16 @@
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\Classes.AssemblyInfoInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\Classes.AssemblyInfo.cs
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\Classes.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Classes\bin\Debug\net8.0-windows\Classes.exe
+C:\Users\karah\Desktop\Csharp Projeler\Classes\bin\Debug\net8.0-windows\Classes.deps.json
+C:\Users\karah\Desktop\Csharp Projeler\Classes\bin\Debug\net8.0-windows\Classes.runtimeconfig.json
+C:\Users\karah\Desktop\Csharp Projeler\Classes\bin\Debug\net8.0-windows\Classes.dll
+C:\Users\karah\Desktop\Csharp Projeler\Classes\bin\Debug\net8.0-windows\Classes.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\Classes.dll
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\refint\Classes.dll
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\Classes.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\Classes.genruntimeconfig.cache
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\ref\Classes.dll
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\Classes.Form1.resources
+C:\Users\karah\Desktop\Csharp Projeler\Classes\obj\Debug\net8.0-windows\Classes.csproj.GenerateResource.cache

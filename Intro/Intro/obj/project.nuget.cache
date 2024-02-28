@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xd3ghG+iRyiGG09tnBXyVHtn+e5jHLC6xoPxmXVnyn0yJjYyapOV2ipfVELZ0HayrZ/+iYTjOIq47/cuWK+DTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karah\\Desktop\\Csharp Projeler\\Intro\\Intro\\Intro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karah\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\karah\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\karah\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

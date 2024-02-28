@@ -1,0 +1,14 @@
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\karah\Desktop\Csharp Projeler\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

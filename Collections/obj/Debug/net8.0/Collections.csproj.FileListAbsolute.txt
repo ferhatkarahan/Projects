@@ -1,0 +1,14 @@
+c:\Users\karah\Desktop\Csharp Projeler\Collections\bin\Debug\net8.0\Collections.exe
+c:\Users\karah\Desktop\Csharp Projeler\Collections\bin\Debug\net8.0\Collections.deps.json
+c:\Users\karah\Desktop\Csharp Projeler\Collections\bin\Debug\net8.0\Collections.runtimeconfig.json
+c:\Users\karah\Desktop\Csharp Projeler\Collections\bin\Debug\net8.0\Collections.dll
+c:\Users\karah\Desktop\Csharp Projeler\Collections\bin\Debug\net8.0\Collections.pdb
+c:\Users\karah\Desktop\Csharp Projeler\Collections\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\karah\Desktop\Csharp Projeler\Collections\obj\Debug\net8.0\Collections.AssemblyInfoInputs.cache
+c:\Users\karah\Desktop\Csharp Projeler\Collections\obj\Debug\net8.0\Collections.AssemblyInfo.cs
+c:\Users\karah\Desktop\Csharp Projeler\Collections\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache
+c:\Users\karah\Desktop\Csharp Projeler\Collections\obj\Debug\net8.0\Collections.dll
+c:\Users\karah\Desktop\Csharp Projeler\Collections\obj\Debug\net8.0\refint\Collections.dll
+c:\Users\karah\Desktop\Csharp Projeler\Collections\obj\Debug\net8.0\Collections.pdb
+c:\Users\karah\Desktop\Csharp Projeler\Collections\obj\Debug\net8.0\Collections.genruntimeconfig.cache
+c:\Users\karah\Desktop\Csharp Projeler\Collections\obj\Debug\net8.0\ref\Collections.dll
